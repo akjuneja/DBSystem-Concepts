@@ -2,7 +2,7 @@
 
 This project contains the work done during the course on Database Systems at Saarland University in the Winter Semester 2022-2023.
 
-The skeletal framework for the project, including the build toold and unit tests have already been provided by the course organisers. This also includes the Mutable API ([https://bigdata.uni-saarland.de/teaching/dbsys20/api/](https://bigdata.uni-saarland.de/teaching/dbsys22/api)) for working with the Database System. Our own work here involves actually implementing the concepts stated below in the respective source files.
+The skeletal framework for the project, including the build toold and unit tests have already been provided by the course organisers. This also includes the Mutable API (https://bigdata.uni-saarland.de/teaching/dbsys22/api) for working with the Database System. Our own work here involves actually implementing the concepts stated below in the respective source files.
 To build the project, the requirements include e CMake3 3.18 or newer, a C/C++ compiler supporting C++20
 (recommended Clang4 or GCC5), and a build automation tool (e.g. GNU Make6 or Ninja7). Source files are located src/ in and files for unit testing are found in unittest/.
 
